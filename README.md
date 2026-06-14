@@ -45,7 +45,7 @@ If `nvim --version` reports something below 0.11, see
 ## Installation
 
 ```bash
-git clone https://github.com/Rphasical/NeoVim_AutoConfig ~/.config/nvim
+git clone https://github.com/Rphasical/NeoVim_AutoConfig.git ~/.config/nvim
 nvim
 ```
 
