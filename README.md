@@ -36,7 +36,7 @@ portable to any Linux or macOS machine.
 
 ```bash
 sudo apt update
-sudo apt install -y neovim git ripgrep xclip unzip curl build-essential
+sudo apt install -y neovim git ripgrep xclip unzip nodejs npm curl build-essential 
 ```
 
 If `nvim --version` reports something below 0.11, see
